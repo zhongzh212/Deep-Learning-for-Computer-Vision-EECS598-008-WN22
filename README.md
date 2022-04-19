@@ -1,5 +1,7 @@
 # EECS598-008 Deep Learning for Computer Vision Winter 2022
 
+This course was offered by Prof. Justin Johnson at University of Michigan to talk really deep about computer vision especially in deep learning. Find course notes and assignments [here](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/).
+
 ### Assignment 1:
 Q1: PyTorch 101.
 
